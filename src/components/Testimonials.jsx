@@ -1,6 +1,6 @@
 import React from 'react'
 import {feedback} from '../constants'
-import FeedBackCard from './FeedbackCard'
+import FeedBackCard from './FeedBackCard'
 
 import styles from '../style'
 
